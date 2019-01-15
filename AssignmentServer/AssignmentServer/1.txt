@@ -1,0 +1,11 @@
+PlaneID is: 1 Speed is: 238.269967 Temperature is: 4.157842 autoPilot is: 0 Time: 1537025228
+PlaneID is: 1 Speed is: 252.245003 Temperature is: 6.389355 autoPilot is: 1 Time: 1537025230
+PlaneID is: 1 Speed is: 35.702261 Temperature is: 4.491104 autoPilot is: 1 Time: 1537025232
+PlaneID is: 1 Speed is: 101.859554 Temperature is: 11.830195 autoPilot is: 0 Time: 1537025234
+PlaneID is: 1 Speed is: 107.062838 Temperature is: 2.935270 autoPilot is: 0 Time: 1537025236
+PlaneID is: 1 Speed is: 189.796808 Temperature is: 7.055879 autoPilot is: 1 Time: 1537025238
+PlaneID is: 1 Speed is: 127.612293 Temperature is: 16.285288 autoPilot is: 0 Time: 1537025240
+PlaneID is: 1 Speed is: 29.206946 Temperature is: 13.886532 autoPilot is: 1 Time: 1537025242
+PlaneID is: 1 Speed is: 86.522172 Temperature is: 18.435011 autoPilot is: 1 Time: 1537025244
+PlaneID is: 1 Speed is: 223.952147 Temperature is: 9.406415 autoPilot is: 1 Time: 1537025246
+PlaneID is: 1 Speed is: 49.510300 Temperature is: 9.835505 autoPilot is: 0 Time: 1537025248
